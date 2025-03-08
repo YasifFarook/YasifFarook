@@ -5,7 +5,7 @@
 🔗[Drive Link to full Portfolio](https://drive.google.com/drive/folders/1hRyrWp1jhQo7KIsOyUxzLpm6bDeh3j9B?usp=drive_link)
 
 - <b>Incident Response using Linux, SIEM tools and Cybersecurity Frameworks and Policies</b>
-  - [Brute-Force Attack Incident Response: A Playbook & Investigation Guide](https://drive.google.com/drive/folders/1LIN4MILe0J5XADMixv1Kn63ZOvZ1f9Ts?usp=drive_link)
+  - [Brute-Force Attack Incident Response: A Playbook & Investigation Guide](https://github.com/YasifFarook/BruteForce-Incident-Response)
   - [MyProtein Security Incident Report](https://drive.google.com/file/d/1e1PMYOi0cgO9IVHhuv4bJg-WqMuXMBU0/view?usp=drive_link)
   - [MyProtein Risk Assessment](https://drive.google.com/file/d/1N7bV0IFIQYi-tR9fi6ORC7bKd8KJy_sE/view?usp=drive_link)
   - [Ticketek Security Incident Report](https://drive.google.com/file/d/1t8mbvVcyYF4Z06-N1CSR6a5scDf_KZjQ/view?usp=drive_link)
