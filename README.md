@@ -4,6 +4,9 @@
 
 🔗[Drive Link to full Portfolio](https://drive.google.com/drive/folders/1hRyrWp1jhQo7KIsOyUxzLpm6bDeh3j9B?usp=drive_link)
 
+- <b>GRC and Cyber-Risk Consulting Projects</b>
+  - [Medibank Risk Management Strategy](https://github.com/YasifFarook/Medibank-Security-Risk-Assessment)
+    
 - <b>Incident Response using Linux, SIEM tools and Cybersecurity Frameworks and Policies</b>
   - [Azure SIEM Dashboard: Capturing a Real-Time Brute-Force Attack](https://github.com/YasifFarook/Azure-Sentinel-Honeypot-Analysis/tree/master)
   - [Brute-Force Attack Incident Response: A Playbook & Investigation Guide](https://github.com/YasifFarook/BruteForce-Incident-Response)
